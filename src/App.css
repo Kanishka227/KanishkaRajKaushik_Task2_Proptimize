@@ -1,5 +1,27 @@
+*{
+  background-color: rgb(19, 109, 145);
+  color: white;
+}
 .App {
   text-align: center;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+.button-el{
+  font: inherit;
+  margin-top: 20px;
+  padding: 10px;
+  width: 20%;
+  border: 2px solid white;
+  background-color: rgb(19, 109, 145);
+}
+.button-el:hover{
+  font: inherit;
+  margin-top: 20px;
+  padding: 10px;
+  width: 20%;
+  border: 2px solid white;
+  background-color: rgb(15, 79, 105);
 }
 
 .App-logo {
